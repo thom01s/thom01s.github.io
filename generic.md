@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Experience
-description: Lorem ipsum dolor est
+description: Professional and Academic
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
