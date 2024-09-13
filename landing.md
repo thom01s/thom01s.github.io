@@ -75,11 +75,11 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Personal Summary</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>I'm a Biomedical engineering undergraduate student at UNISINOS. I have 2 years of experience in research at the Startup Biosens Tech, working with manufacturing processses of microfluidic channels of rapid tests for several conditions and a data science project for inspection of production materials. Academically I have projects in the biomedical image and signal processing and many small projects that can be used as basic generic models for diverse problems for fast prototiping and testing.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="generic.html" class="button next">Experience</a></li>
 		</ul>
 	</div>
 </section>
