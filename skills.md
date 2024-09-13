@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Skills
-image: assets/images/pic01.jpg
+image: null
 nav-menu: true
 ---
 
