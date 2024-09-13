@@ -55,6 +55,12 @@
 			top: 0;
 			left: 0;
 		}
+
+		nav {
+			position: absolute;
+			top: 0;
+			right: 0;
+		}
 	}
 
 /* Banner */
@@ -97,13 +103,5 @@
 			> * {
 				float: left;
 			}
-		}
-	}
-
-/* Menu */
-
-	#menu {
-		.inner {
-			margin: 0 auto;
 		}
 	}
