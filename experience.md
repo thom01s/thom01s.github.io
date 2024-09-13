@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Experience
 description: Professional and Academic
 image: assets/images/pic11.jpg
