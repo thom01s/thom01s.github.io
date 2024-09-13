@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Skills
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -45,7 +45,7 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Elements -->
-<h2 id="elements">Projects</h2>
+<h2 id="elements">Skills</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 

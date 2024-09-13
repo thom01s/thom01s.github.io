@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Projects
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Data science project database with full projects and generic models.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
