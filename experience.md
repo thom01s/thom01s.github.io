@@ -17,7 +17,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<section id="one">
+<section id="two">
 	<div class="inner">
         <p>I'm a Biomedical engineering undergraduate student at UNISINOS since the begining of 2020. I have 2 years of experience at the Startup Biosens Tech, working with manufacturing processses of microfluidic channels of rapid tests for several projects. Academically I have projects in the biomedical image and signal processing field as well as many small projects that can be used as basic generic models for diverse problems for fast prototiping and testing.</p>
         <p>As my final paper at college I've developed an algorithm based on neural networks to classify different heart pathologies from an 12-lead ECG raw signal (timeseries classification) trained and tested with the "PTB-XL" database from Physionet using different tools and libraries, such as Pandas, NumPy, MatPlotLib, Seaborn, Keras, TensorFlow, Scykit-Learn, ScyPy, WFDB and OpenCV. Different architectures were tested in different configurations, such as Resnet-50 pre-trained with imagenet images, A CNN-1D made from scratch and an ensemble model of CNN-1D, achieving as a final result 84% of accuracy and 81% of recall along the 5 classes.</p>
