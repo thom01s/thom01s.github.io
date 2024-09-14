@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Skills
+description: Skills, languages and tools
 image: null
 nav-menu: true
 ---
