@@ -55,6 +55,22 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://github.com/thom01s?tab=repositories" class="image">
+			<img src="{% link assets/images/pic11.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Biossensor quality inspection</h3>
+				</header>
+				<p>This project is a classifier of non-conformities for test strips for the company Biosens. Using an algorithm based on Inception V3, the model had the task to classify the images among 5 different categories and achieved a result of 88% of accuracy in the test with 16 images never seen before (14 correct out of 16). All sensors that were suitable for prodution followed to the next propduciton steps. The 2 missclassified images were still classified as errors and did not interfere with the production.</p>
+				<ul class="actions">
+					<li><a href="https://github.com/thom01s?tab=repositories" class="button">Soon on github</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="https://github.com/thom01s?tab=repositories" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
