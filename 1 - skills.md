@@ -74,7 +74,6 @@ nav-menu: true
 		</div>
 	</div>
 </section>
-</div>
 <section id="three">
 	<div class="inner">
 		<header class="major">
@@ -88,3 +87,4 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
+</div>
