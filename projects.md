@@ -1,6 +1,6 @@
 ---
-title: Projects
 layout: landing
+title: Projects
 description: 'Data science project database with full projects and generic models.'
 image: assets/images/pic07.jpg
 nav-menu: true
