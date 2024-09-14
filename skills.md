@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Skills
 image: null
 nav-menu: true
