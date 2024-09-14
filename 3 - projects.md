@@ -70,8 +70,6 @@ nav-menu: true
 		</div>
 	</section>
 </section>
-
-<!-- Three -->
 <section id="three">
 	<div class="inner">
 		<header class="major">
@@ -79,7 +77,9 @@ nav-menu: true
 		</header>
 		<p>I'm a Biomedical engineering undergraduate student at UNISINOS. I have 2 years of experience in research at the Startup Biosens Tech, working with manufacturing processses of microfluidic channels of rapid tests for several conditions and a data science project for inspection of production materials. Academically I have projects in the biomedical image and signal processing and many small projects that can be used as basic generic models for diverse problems for fast prototiping and testing.</p>
 		<ul class="actions">
-			<li><a href="experience.html" class="button next">Experience</a></li>
+			<li><a href="1 - skills.html" class="button next">Skills</a></li>
+			<li><a href="2 - experience.html" class="button next">Experience</a></li>
+			<li><a href="3 - projects.html" class="button next">Projects</a></li>
 		</ul>
 	</div>
 </section>

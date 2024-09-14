@@ -25,15 +25,16 @@ nav-menu: true
         <p>Recently the field of data science, I've develop a neural network based algorithm for biossensor non-conformity visual inspection. That uses the Inception V3 architecture to classify different test strips in 5 classes, one for each error and one for test strips that are in good condition. The model trained with more than 5000 images had a accuracy of 96% in the validation dataset and in a test with 16 images it droped to 88%, resulting 14 images correct and 2 images classified incorrectly. Although the model had a lower performance in a production simulation, every test strip with good condition was classified correctly and none of the improper test strips was classified in a good condition, meaning that the production didn't suffer from a significant impact. Currently, the model deployment is in study to research the usability in production.</p>
     </div>
 </section>
-
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Skills</h2>
+			<h2>Personal Summary</h2>
 		</header>
 		<p>I'm a Biomedical engineering undergraduate student at UNISINOS. I have 2 years of experience in research at the Startup Biosens Tech, working with manufacturing processses of microfluidic channels of rapid tests for several conditions and a data science project for inspection of production materials. Academically I have projects in the biomedical image and signal processing and many small projects that can be used as basic generic models for diverse problems for fast prototiping and testing.</p>
 		<ul class="actions">
-			<li><a href="skills.html" class="button next">Skills</a></li>
+			<li><a href="1 - skills.html" class="button next">Skills</a></li>
+			<li><a href="2 - experience.html" class="button next">Experience</a></li>
+			<li><a href="3 - projects.html" class="button next">Projects</a></li>
 		</ul>
 	</div>
 </section>
