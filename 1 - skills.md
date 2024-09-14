@@ -14,8 +14,10 @@ nav-menu: true
 		<header class="major">
 			<h1>Skills</h1>
 		</header>
+	</section>
+</div>
 
-<!-- One -->
+<!-- two -->
 <section id="two">
 	<!-- Content -->
 	<div class="row">
@@ -74,6 +76,7 @@ nav-menu: true
 		</div>
 	</div>
 </section>
+
 <section id="three">
 	<div class="inner">
 		<header class="major">
@@ -86,5 +89,3 @@ nav-menu: true
 			<li><a href="3 - projects.html" class="button next">Projects</a></li>
 		</ul>
 	</div>
-</section>
-</div>
