@@ -28,8 +28,6 @@
 		&.alt {
 			list-style: none;
 			padding-left: 0;
-			width: fit-content; /* Ajusta a largura ao conteúdo da lista */
-			margin: 0 auto; /* Centraliza horizontalmente */
 			li {
 				border-top: solid 1px _palette(border);
 				padding: 0.5em 0;
