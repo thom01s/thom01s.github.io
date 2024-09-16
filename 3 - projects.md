@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>ECG signal classification</h3>
 				</header>
-				<p>This project is my final paper at college and utilizes a convolutional neural network 1D made from scratch to classify different timeseries (ECG raw signal from "PTB-XL" database) between 5 categories, achieving a performace of 84% of accuracy and 81% off recall along different architectures, such as Resnet-50 and ensemble models trained with the same method.</p>
+				<p>This project is my final paper at college and utilizes a convolutional neural network 1D made from scratch to classify different timeseries (ECG raw signal from "PTB-XL" database) between 5 categories, achieving a performace of 84% of accuracy and recall across different architectures, such as Resnet-50 and ensemble models trained with the same method.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/thom01s/Heart-pathology-classification" class="button">Learn more</a></li>
 				</ul>
