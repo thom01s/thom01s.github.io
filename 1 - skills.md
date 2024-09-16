@@ -15,6 +15,7 @@ nav-menu: true
 				<h1>Skills</h1>
 			</header>
 		</div>
+	</section>
 <!-- two -->
 	<section id="two">
 		<!-- Content -->
@@ -73,9 +74,7 @@ nav-menu: true
 					</ul>
 			</div>
 		</div>
-	</section>
- </section>
-	
+	</section>	
 </div>
 <section id="three">
 	<div class="inner">
