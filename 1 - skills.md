@@ -19,9 +19,7 @@ nav-menu: true
 	<section id="two">
 		<!-- Content -->
 		<div class="row">
-			<div class="2u 12u$(medium)">
-			</div>
-			<div class="4u 12u$(medium)">
+			<div class="6u 12u$(medium)">
 				<h3>Hard skills</h3>
 					<ul class="alt">
 						<li>Programming knowledge in Python</li>
@@ -38,7 +36,7 @@ nav-menu: true
 						<li>Imaging</li>
 					</ul>
 			</div>
-			<div class="4u 12u$(medium)">
+			<div class="6u$ 12u$(medium)">
 				<h3>Tools</h3>
 					<ul class="alt">
 						<li>Pandas</li>
@@ -55,11 +53,7 @@ nav-menu: true
 						<li>SQL server</li>
 					</ul>
 			</div>
-			<div class="2u$ 12u$(medium)">
-			</div>
-			<div class="2u 12u$(medium)">
-			</div>
-			<div class="4u 12u$(medium)">
+			<div class="6u 12u$(medium)">
 				<h3>Soft skills</h3>
 					<ul class="alt">
 						<li>Fast learning</li>
@@ -71,14 +65,12 @@ nav-menu: true
 						<li>Calm</li>
 					</ul>
 			</div>
-			<div class="4u 12u$(medium)">
+			<div class="6u$ 12u$(medium)">
 				<h3>Language skills</h3>
 					<ul class="alt">
 						<li>Native Portuguese</li>
 						<li>Advanced English (C1 - MET)</li>
 					</ul>
-			</div>
-			<div class="2u$ 12u$(medium)">
 			</div>
 		</div>
 	</section>
