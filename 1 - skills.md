@@ -8,16 +8,18 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main" class="alt">
-<!-- One -->
+	<!-- One -->
 	<section id="one">
 		<div class="inner">
 			<header class="major">
 				<h1>Skills</h1>
 			</header>
 		</div>
-<!-- two -->
-		<section id="two">
-			<!-- Content -->
+	</section>
+	<!-- two -->
+	<section id="two">
+		<!-- Content -->
+		<div class="inner">
 			<div class="row">
 				<div class="6u 12u$(medium)">
 					<h3>Hard skills</h3>
@@ -73,9 +75,8 @@ nav-menu: true
 						</ul>
 				</div>
 			</div>
-		</section>
+		</div>
 	</section>
-</div>
 <section id="three">
 	<div class="inner">
 		<header class="major">
