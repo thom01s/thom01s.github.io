@@ -15,8 +15,8 @@ nav-menu: true
 		<header class="major">
 			<h1>Skills</h1>
 		</header>
-	</section>
-</div>
+	</div>
+</section>
 
 <!-- two -->
 <section id="two">
@@ -77,6 +77,7 @@ nav-menu: true
 		</div>
 	</div>
 </section>
+</div>
 
 <section id="three">
 	<div class="inner">
@@ -90,3 +91,4 @@ nav-menu: true
 			<li><a href="3 - projects.html" class="button next">Projects</a></li>
 		</ul>
 	</div>
+ </section>
