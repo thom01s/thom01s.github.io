@@ -26,16 +26,16 @@ nav-menu: true
 						<ul class="alt">
 							<li>Programming knowledge in Python</li>
 							<li>Statistics</li>
+							<li>SQL</li>
+							<li>ETL</li>
+							<li>Data visualization</li>
 							<li>Machine learning and Deep learning</li>
 							<li>Image processing</li>
 							<li>Timeseries processing</li>
 							<li>Biosignals and medical images</li>
-							<li>Data visualization</li>
-							<li>SQL</li>
-							<li>Reportsl, presentations and graphs</li>
+							<li>Reports, presentations and graphs</li>
 							<li>Supplier search</li>
 							<li>Research and development</li>
-							<li>Imaging</li>
 						</ul>
 				</div>
 				<div class="6u$ 12u$(medium)">
