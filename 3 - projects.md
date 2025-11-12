@@ -54,6 +54,22 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
+		<a href="https://github.com/thom01s/" class="image">
+			<img src="{% link assets/images/pic12.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>LLM4Trademark - Brand and Product Classification for the automation of patent registration</h3>
+				</header>
+				<p>This project was made as a solution for the Technology Innovation Office (TIO or Technology Transfer Office (TTO)) of Biopark Educação (Brazil) to adress the current bottleneck in the process of brand and product patent depositing and trademark registering. The usual process involves searching in the Nice classification and Viena classification documents distributed by INPI (National Institute of Research and innovation) which consumes precious time. With a description of the product or brand the solution implemented can rapidly search through the documents and answer with the most probable categories fitted for the brand or product, saving precious time for the TIO team at the university.</p>
+				<ul class="actions">
+					<li><a href="https://github.com/thom01s/" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="https://github.com/thom01s?tab=repositories" class="image">
 			<img src="{% link assets/images/pic11.jpg %}" alt="" data-position="top center" />
 		</a>
