@@ -6,10 +6,10 @@ description: and this is my portifolio for data science.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "thom01s.github.io" # the base hostname & protocol for your site
 author: Thomas Sponchiado Pastore
-street_address: Celeste Muraro Avenue
+street_address: AV. Maripá
 city: Toledo
 state: PR
-zip_code: 85903-342
+zip_code: 85902-060
 country: Brazil
 phone: +55(44)998014924
 
