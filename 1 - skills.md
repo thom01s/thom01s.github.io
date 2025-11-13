@@ -24,7 +24,7 @@ nav-menu: true
 				<div class="6u 12u$(medium)">
 					<h3>Hard skills</h3>
 						<ul class="alt">
-							<li>Programming knowledge in Python</li>
+							<li>Python</li>
 							<li>Statistics</li>
 							<li>SQL</li>
 							<li>ETL</li>
@@ -34,6 +34,7 @@ nav-menu: true
 							<li>Timeseries processing</li>
 							<li>Biosignals and medical images</li>
 							<li>Reports, presentations and graphs</li>
+							<li>Process automation</li>							
 							<li>Supplier search</li>
 							<li>Research and development</li>
 						</ul>
@@ -42,6 +43,10 @@ nav-menu: true
 					<h3>Tools</h3>
 						<ul class="alt">
 							<li>Pandas</li>
+							<li>Openpyxl</li>
+							<li>Langchain</li>
+							<li>Chromadb</li>
+							<li>Requests</li>
 							<li>NumPy</li>
 							<li>MatPlotLib and Seaborn</li>
 							<li>Keras</li>
