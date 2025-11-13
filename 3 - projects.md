@@ -107,7 +107,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Personal Summary</h2>
 		</header>
-		<p>I'm a Biomedical engineer and an Applied Computing Master's student. I have 2 years of experience in research at the Startup Biosens Tech, working with manufacturing processses of microfluidic channels of rapid tests for several conditions and a data science project for inspection of production materials. Academically I have projects in the biomedical image and signal processing and many small projects that can be used as basic generic models for diverse problems for fast prototiping and testing.</p>
+		<p>I'm a Biomedical engineer and an Applied Computing Master's student. I have 2 years of experience in research at the Startup Biosens Tech, working with manufacturing processses of microfluidic channels of rapid tests for several conditions and a data science project for inspection of production materials. Currently, I'm working at Biopark Educação as an R&D analyst, responsible for R&D KPIs, report automation (involving ETL, data analysis, python developing) and maintenence for current software used in the sector. Academically I have projects in the biomedical image and signal processing and many small projects that can be used as basic generic models for diverse problems for fast prototiping and testing.</p>
 		<ul class="actions">
 			<li><a href="1 - skills.html" class="button next">Skills</a></li>
 			<li><a href="2 - experience.html" class="button next">Experience</a></li>
