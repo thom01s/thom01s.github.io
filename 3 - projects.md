@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Field of study</h2>
 		</header>
-		<p>All of my projects are inspired by healthcare problems and are designed to help the diagnose and monitoring of different conditions in different areas, such as cardiology, radiology and production of healthcare equipment. Other projects showed are basic generic projects that can be modified and reused for more complex solutions and are destined to assure fast prototiping for other problems and projects.</p>
+		<p>Most of my projects are inspired by healthcare problems and are designed to help the diagnose and monitoring of different conditions in different areas, such as cardiology, radiology and production of healthcare equipment. Other projects showed aim to assist companies to solve issues with bottlenecks in their processes or as generic models to accelerate prototyping and developemnt.</p>
 	</div>
 </section>
 
