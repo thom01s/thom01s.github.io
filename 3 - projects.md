@@ -22,22 +22,6 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://github.com/thom01s/Chest-X-ray-Classification" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Chest X-ray classification</h3>
-				</header>
-				<p>Using a convolutional neural network to classify 4 chest X-ray conditions of the dataset "COVID-19 Radiography Database" from Kaggle, The dataset was trained using different configurations of Resnet-50 and A CNN made from scratch and achieved an acuracy above 90%.</p>
-				<ul class="actions">
-					<li><a href="https://github.com/thom01s/Chest-X-ray-Classification" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
 		<a href="https://github.com/thom01s/Heart-pathology-classification" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
@@ -81,6 +65,22 @@ nav-menu: true
 				<p>This project is a classifier of non-conformities for test strips for the company Biosens. Using an algorithm based on Inception V3, the model had the task to classify the images among 5 different categories and achieved a result of 88% of accuracy in the test with 16 images never seen before (14 correct out of 16). All sensors that were suitable for prodution followed to the next propduciton steps. The 2 missclassified images were still classified as errors and did not interfere with the production.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/thom01s?tab=repositories" class="button">Soon on github</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="https://github.com/thom01s/Chest-X-ray-Classification" class="image">
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Chest X-ray classification</h3>
+				</header>
+				<p>Using a convolutional neural network to classify 4 chest X-ray conditions of the dataset "COVID-19 Radiography Database" from Kaggle, The dataset was trained using different configurations of Resnet-50 and A CNN made from scratch and achieved an acuracy above 90%.</p>
+				<ul class="actions">
+					<li><a href="https://github.com/thom01s/Chest-X-ray-Classification" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
